@@ -1,6 +1,41 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+👋)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=python,vim&theme=dark)](https://skillicons.dev)
+<!-- <details> -->
+
+<p>My Skills</p>
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java&theme=dark">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <th>Infrastructure & DevOps</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,aws,githubactions&theme=dark">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Tools & Environment</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,ubuntu,arch,vim&theme=dark">
+      </a>
+    </td>
+  </tr>
+</table>
+<!--
+</details>
+<br>
+-->
+
 <!--
 **Yamachan-54/Yamachan-54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
