@@ -15,6 +15,15 @@
   </tr>
   
   <tr>
+    <th>Database</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
     <th>Infrastructure & DevOps</th>
     <td>
       <a href="https://skillicons.dev">
