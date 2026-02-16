@@ -6,6 +6,15 @@
 
 <table>
   <tr>
+    <th>Frontend</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=htmx,tailwindcss,javascript&theme=dark">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
     <th>Backend</th>
     <td>
       <a href="https://skillicons.dev">
@@ -35,7 +44,7 @@
     <th>Tools & Environment</th>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,ubuntu,arch,vim&theme=dark">
+        <img src="https://skillicons.dev/icons?i=git,bash,ubuntu,arch,vim&theme=dark">
       </a>
     </td>
   </tr>
